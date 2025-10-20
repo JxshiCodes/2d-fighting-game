@@ -124,3 +124,4 @@
 *.tar lfs-file
 . filter=lfs diff=lfs merge=lfs -text
 .dylib filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
